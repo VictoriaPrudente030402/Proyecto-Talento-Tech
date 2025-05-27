@@ -1,0 +1,41 @@
+/* INDEX PREDEF */
+
+body {
+    font-family: "DM Sans", sans-serif;
+    margin: 0;                   
+    padding: 0;                  
+}
+
+.title {
+    font-family: "Playpen Sans Deva", cursive;
+    font-weight: 900;
+    font-size: 40px; 
+    letter-spacing: 1px;
+    color: #424242;
+    margin: 0px;
+}
+
+
+/* CONTAINER 1 NAV */
+header {
+    background-color: #e64731; 
+    color: white;             
+    padding: 20px;             
+    display: flex;             
+    justify-content: center;
+    gap: 1050px;
+}
+
+nav ul {
+  list-style: none;          
+  padding: 0;                
+  display: flex;             
+  justify-content: center;   
+  gap: 20px;                 
+}
+
+
+/* MAIN  */
+main {
+    background-color: #FAF5ED;
+}
